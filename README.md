@@ -1,1 +1,2 @@
-# Class-36-Structuring-before-Coding
+# synchronousBallMovement
+Ball moving synchronously
